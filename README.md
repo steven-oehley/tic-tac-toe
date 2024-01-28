@@ -3,6 +3,7 @@
 ## Overview
 
 This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. The game features a dynamic messaging system that updates players on the game state, prevents entries after a win, includes dynamic styling with the toggling of an active class, and provides a reset button to restart the game.
+The game can be viewed [here](https://steve-covalence-tic-tac-toe.netlify.app/)
 
 ## Features
 
