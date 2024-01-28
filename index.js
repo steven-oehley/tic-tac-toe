@@ -41,7 +41,7 @@ const trackScore = () => {
     const [a, b, c] = winConditions[i];
 
     if (moves[a] !== null && moves[a] === moves[b] && moves[b] === moves[c]) {
-      checkWin(i);
+      checkWin(a);
       return; // Return to exit the function after a win is found
     }
   }
